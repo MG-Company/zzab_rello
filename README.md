@@ -14,3 +14,5 @@ like Trello in Atalassian
 - React TS
 - Node.js
 - MySQL
+- Jira
+- Notion
