@@ -10,9 +10,18 @@ like Trello in Atalassian
 - 조민수
 - 김광모
 
-### 개발 스택
-- React TS
-- Node.js
-- MySQL
-- Jira
-- Notion
+### Skills
+- Front-End
+  - React
+  - TypeScript
+    
+- Back-End
+  - Node.js
+  - Express
+    
+- Database
+  - MySQL
+    
+- Cooperation
+  - Jira
+  - Notion
